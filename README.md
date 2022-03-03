@@ -5,7 +5,12 @@ In New York City, there is a bikesharing company that allows people to rent bike
 
 To complete our analysis, we pulled the NYC Citi Bike dataset for the month of August, a month that is popular for tourists to visit NYC. Using pandas, we changed the "trip duration" column to a datetime datatype and then began visualizing our data using Tableau. 
 
-## Results 
+Using Tableau to create visualizations based on the data we gathered from NYC Citi Bike, we came up with a business propsal to present to potential investors. The story that we show in Tableau will outline whether or not the bikesharing company will survive in De Moine, Iowa, using interactive dashboards set with specific and thought out parameters. 
+
+## Results
+### 1. Popular Checkout Times for Users
+This dashboard shows poular check out times for city bikes as well as trip duration in minutes during each hour the bikes are checked out.
+![Checkout Times ](https://user-images.githubusercontent.com/94096530/156621952-38c505a9-d7cf-43d4-86ca-458f59940ae9.png)
 
 
 
