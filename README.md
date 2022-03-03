@@ -9,8 +9,12 @@ Using Tableau to create visualizations based on the data we gathered from NYC Ci
 
 ## Results
 ### 1. Popular Checkout Times for Users
-This dashboard shows poular check out times for city bikes as well as trip duration in minutes during each hour the bikes are checked out.
+This dashboard shows poular check out times for city bikes as well as trip duration in minutes during each hour the bikes are checked out. Based on the filter we applied on Trip Duration, we can see that "rush hour" for using the city bikes is between 6am - 8am and then again at 5pm - 7pm. These "rush hours" can be correlated to the standard commute and work hours during the work week.
 ![Checkout Times ](https://user-images.githubusercontent.com/94096530/156621952-38c505a9-d7cf-43d4-86ca-458f59940ae9.png)
+
+### 2. Checkout Times by 
+![Checkout times by gender](https://user-images.githubusercontent.com/94096530/156626031-93ba2436-03b6-44a2-9309-f334d86234a0.png)
+Gender
 
 
 
