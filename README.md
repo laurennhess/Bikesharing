@@ -39,6 +39,7 @@ The histogram shows the peak hours for citi bike usage in NYC during August. The
 ## Summary
 The Citi Bike data we have analyzed for NYC provides a lot of useful information we can consider in our business proposal for opening up a citi bike location in De Moines, Iowa. We can use these dashboards to leverage certain business decisions, like peak hours, repair hours, and user trends. 
 
-The visuaizatons provided in this file can be viewed on my Tableau Pubic Account: https://public.tableau.com/app/profile/lauren.hess/viz/NYCCitiBikeAnalysis_16461975520310/NYCCitiBike
+The visuaizatons provided in this file can be viewed on my Tableau Pubic Account: 
+[link to dashboard](https://public.tableau.com/app/profile/lauren.hess/viz/NYCCitiBikeAnalysis_16461975520310/NYCCitiBike)
 
 
